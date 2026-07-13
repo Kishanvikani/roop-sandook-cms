@@ -39,6 +39,11 @@ const productTypeDescriptions = new Map([
   ["pendant-set", "Traditional pendant sets for ethnic elegance."],
   ["nose-ring", "Traditional nose rings for graceful charm."],
   ["necklace", "Traditional necklaces with timeless elegance."],
+  ["bangles", "Traditional bangles crafted for timeless ethnic elegance."],
+  ["kada", "Traditional kadas with regal craftsmanship and classic appeal."],
+  ["hair-accessories", "Traditional hair accessories to complete your festive look."],
+  ["earring>ear-cuffs", "Traditional ear cuffs for a bold ethnic statement."],
+  ["earring>ear-chains", "Traditional ear chains with graceful heritage charm."],
 ]);
 
 function setFirstValue(target, fieldName, value) {
