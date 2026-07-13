@@ -220,7 +220,7 @@ async function loadExistingProducts(client, products) {
       productKey,
       name,
       slug,
-      variants[]{_key, sku, price, compareAtPrice, inventoryCount, inStock}
+      variants[]{_key, sku, size, price, compareAtPrice, inventoryCount, inStock}
     }`,
     { productKeys, slugs, skus },
   );
@@ -257,6 +257,7 @@ async function buildVariant(client, variant, state) {
     _type: "productVariant",
     sku: variant.sku,
     colour,
+    size: variant.size,
     price: variant.price,
     compareAtPrice: variant.compareAtPrice,
     inventoryCount: variant.inventoryCount,
@@ -320,6 +321,12 @@ function updateExistingVariant(transaction, productId, existingVariant, incoming
   };
   const unsetFields = [];
 
+  if (incomingVariant.size == null) {
+    unsetFields.push(`${pathPrefix}.size`);
+  } else {
+    setFields[`${pathPrefix}.size`] = incomingVariant.size;
+  }
+
   if (incomingVariant.compareAtPrice == null) {
     unsetFields.push(`${pathPrefix}.compareAtPrice`);
   } else {
@@ -329,6 +336,7 @@ function updateExistingVariant(transaction, productId, existingVariant, incoming
   state.summary.variantUpdates.push({
     productId,
     sku: incomingVariant.sku,
+    size: incomingVariant.size,
     price: incomingVariant.price,
     compareAtPrice: incomingVariant.compareAtPrice,
     inventoryCount: incomingVariant.inventoryCount,

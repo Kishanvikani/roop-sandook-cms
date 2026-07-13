@@ -89,6 +89,7 @@ Rules:
 
 - `productKey` groups multiple SKUs into one frontend product. Leave it blank to generate it from `productName`.
 - `sku` identifies one sellable variant.
+- `size` is read per row/SKU. Products also keep the first size as a fallback for older frontend views.
 - `category` is the main category. Use `subCategory` for child categories like `Stud` under `Earrings`.
 - Do not enter category paths like `Earrings > Stud`.
 - Blank `inventoryCount` defaults to `1`.
@@ -109,7 +110,7 @@ Write changes to Sanity:
 corepack yarn seed:products
 ```
 
-`seed:products` requires `SANITY_AUTH_TOKEN` in `.env.local`. Existing variants are matched by `sku` and only stock/price fields are updated.
+`seed:products` requires `SANITY_AUTH_TOKEN` in `.env.local`. Existing variants are matched by `sku` and stock, price, compare-at price, and size fields are updated.
 
 For a simple Windows workflow, use the numbered scripts inside `google-sheet/`:
 

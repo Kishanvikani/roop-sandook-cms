@@ -52,7 +52,7 @@ Optional columns:
 | `collections` | Separate multiple values with `;`, like `Festive Edit; Wedding Guest` |
 | `materials` | Separate multiple values with `;`, like `Kundan; Pearl` |
 | `colour` | Colour name, like `Gold`, `Pearl`, `Green` |
-| `size` | Product size text shown on the product detail page |
+| `size` | Size for this SKU row, like `Free size`, `2.4`, or `Adjustable` |
 | `imageUrls` | Public image URLs separated with `;` |
 | `shortDescription` | Short product summary |
 | `description` | Full product description |
@@ -113,7 +113,7 @@ Use the same `productKey` and `productName`, but a different `sku` for each vari
 ```csv
 productKey,productName,sku,price,compareAtPrice,inventoryCount,category,subCategory,collections,materials,colour,size,imageUrls,shortDescription,description,careInstructions,shippingInfo,isFeatured,isNewArrival,seoTitle,seoDescription
 kundan-jhumka,Kundan Jhumka,RS-EAR-JHU-010-GOLD,899,1199,8,Earrings,Jhumka,Festive Edit,Kundan; Gold Plated,Gold,Free size,,Classic kundan jhumka,Traditional jhumka for festive looks,,,,,,
-kundan-jhumka,Kundan Jhumka,RS-EAR-JHU-010-PEARL,949,1299,5,Earrings,Jhumka,Festive Edit,Kundan; Pearl,Pearl,Free size,,Classic kundan jhumka,Traditional jhumka for festive looks,,,,,,
+kundan-jhumka,Kundan Jhumka,RS-EAR-JHU-010-PEARL,949,1299,5,Earrings,Jhumka,Festive Edit,Kundan; Pearl,Pearl,Adjustable,,Classic kundan jhumka,Traditional jhumka for festive looks,,,,,,
 ```
 
 ## Things To Check Before Step 3

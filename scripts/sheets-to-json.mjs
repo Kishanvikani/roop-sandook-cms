@@ -23,7 +23,6 @@ import {
 } from "./lib/product-defaults.mjs";
 
 const productFields = [
-  "size",
   "shortDescription",
   "description",
   "careInstructions",
@@ -126,6 +125,7 @@ function normalizeRow(row, index) {
   const collections = splitList(row.collections);
   const materials = splitList(row.materials);
   const imageUrls = splitList(row.imageUrls);
+  const size = cleanString(row.size);
 
   if (!productKey) {
     context.errors.push("productKey is required.");
@@ -174,6 +174,7 @@ function normalizeRow(row, index) {
     ...category,
     collections,
     materials,
+    size,
     imageUrls,
   };
 
@@ -196,6 +197,7 @@ function normalizeRow(row, index) {
     variant: {
       sku,
       colour,
+      size,
       price,
       compareAtPrice,
       inventoryCount,

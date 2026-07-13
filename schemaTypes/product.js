@@ -45,17 +45,17 @@ export const product = defineType({
         "Select a parent category when there is no sub-category. Select the child category when the product belongs under one, for example Stud under Earrings.",
       validation: (Rule) => Rule.required(),
     }),
-    defineField({
-      name: "collections",
-      title: "Collections",
-      type: "array",
-      of: [
-        defineArrayMember({
-          type: "reference",
-          to: [{ type: "collection" }],
-        }),
-      ],
-    }),
+    // defineField({
+    //   name: "collections",
+    //   title: "Collections",
+    //   type: "array",
+    //   of: [
+    //     defineArrayMember({
+    //       type: "reference",
+    //       to: [{ type: "collection" }],
+    //     }),
+    //   ],
+    // }),
     defineField({
       name: "materials",
       title: "Materials",
@@ -67,27 +67,27 @@ export const product = defineType({
         }),
       ],
     }),
-    defineField({
-      name: "size",
-      title: "Size",
-      type: "string",
-      description: "Optional product size text shown on the product detail page.",
-    }),
-    defineField({
-      name: "images",
-      title: "Product Images",
-      type: "array",
-      of: [
-        defineArrayMember({
-          type: "image",
-          options: { hotspot: true },
-        }),
-      ],
-      validation: (Rule) => Rule.min(1).warning("Add at least one product image when available."),
-      components: {
-        input: MultiImageUploadInput,
-      },
-    }),
+    // defineField({
+    //   name: "size",
+    //   title: "Size",
+    //   type: "string",
+    //   description: "Optional product size text shown on the product detail page.",
+    // }),
+    // defineField({
+    //   name: "images",
+    //   title: "Product Images",
+    //   type: "array",
+    //   of: [
+    //     defineArrayMember({
+    //       type: "image",
+    //       options: { hotspot: true },
+    //     }),
+    //   ],
+    //   validation: (Rule) => Rule.min(1).warning("Add at least one product image when available."),
+    //   components: {
+    //     input: MultiImageUploadInput,
+    //   },
+    // }),
     defineField({
       name: "variants",
       title: "Sellable Variants",
@@ -109,6 +109,12 @@ export const product = defineType({
               title: "Colour",
               type: "reference",
               to: [{ type: "colour" }],
+            }),
+            defineField({
+              name: "size",
+              title: "Size",
+              type: "string",
+              description: "Optional size for this SKU, for example Free size, 2.4, or Adjustable.",
             }),
             defineField({
               name: "price",
