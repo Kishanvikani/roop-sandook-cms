@@ -1,0 +1,19 @@
+---------------------------------------------------------------------
+Few things we want to do now:
+- handle pagination via lazy loading as the user scrolls, also the pages are very slow on initial render then they are faster, any reason for that ?
+- SEO optimisations if any needed
+- remove shop link from header, the route should be present and re-directions should work fine but not link in the header to be present for shop, user can go through collections
+- script for local running of studio for wife, just a click should run it in chrome
+- analytics since we will be using vercel for deployment
+
+- mobile check everything
+- page content
+- deployment 
+- deploy both applications
+
+
+
+
+now the hamburger menu on mobile should be on the left side and not right, the favorite and bag can be on the right. 
+
+https://github.com/Kishanvikani/roopsandook.git

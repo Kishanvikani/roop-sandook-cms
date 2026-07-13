@@ -1,0 +1,313 @@
+{
+  "sourceFile": "product-import.csv",
+  "generatedAt": "2026-07-09T20:03:32.263Z",
+  "products": [
+    {
+      "productKey": "cyra-necklace",
+      "productName": "Cyra Necklace",
+      "slug": "cyra-necklace",
+      "parentCategory": "Necklace",
+      "category": "Antique",
+      "collections": [],
+      "materials": [
+        "Gold"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Cyra Necklace",
+      "seoDescription": "Cyra Necklace from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-233236-RU",
+          "colour": "Ruby",
+          "price": 2499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "aurelia-necklace",
+      "productName": "Aurelia Necklace",
+      "slug": "aurelia-necklace",
+      "parentCategory": "Necklace",
+      "category": "Antique",
+      "collections": [],
+      "materials": [
+        "Gold"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Aurelia Necklace",
+      "seoDescription": "Aurelia Necklace from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-233061-RUGR",
+          "colour": "Ruby Green",
+          "price": 2499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "aquila-necklace",
+      "productName": "Aquila Necklace",
+      "slug": "aquila-necklace",
+      "parentCategory": "Necklace",
+      "category": "Antique",
+      "collections": [],
+      "materials": [
+        "Gold"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Aquila Necklace",
+      "seoDescription": "Aquila Necklace from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-233271-RUGR",
+          "colour": "Ruby Green",
+          "price": 1899,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "nerissa-necklace",
+      "productName": "Nerissa Necklace",
+      "slug": "nerissa-necklace",
+      "parentCategory": "Necklace",
+      "category": "Antique",
+      "collections": [],
+      "materials": [
+        "Gold"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Nerissa Necklace",
+      "seoDescription": "Nerissa Necklace from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-233399-RUGR",
+          "colour": "Ruby Green",
+          "price": 2199,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "opaline-necklace-set",
+      "productName": "Opaline Necklace Set",
+      "slug": "opaline-necklace-set",
+      "parentCategory": "Necklace",
+      "category": "Antique",
+      "collections": [],
+      "materials": [
+        "Gold"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Opaline Necklace Set",
+      "seoDescription": "Opaline Necklace Set from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-901633-RUGR",
+          "colour": "Ruby Green",
+          "price": 2999,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "elowen-necklace",
+      "productName": "Elowen Necklace",
+      "slug": "elowen-necklace",
+      "parentCategory": "Necklace",
+      "category": "Antique",
+      "collections": [],
+      "materials": [
+        "Gold"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Elowen Necklace",
+      "seoDescription": "Elowen Necklace from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-232291-GR",
+          "colour": "Green",
+          "price": 2499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "pearla-necklace-set",
+      "productName": "Pearla Necklace Set",
+      "slug": "pearla-necklace-set",
+      "parentCategory": "Necklace",
+      "category": "Kundan",
+      "collections": [],
+      "materials": [
+        "Gold"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Pearla Necklace Set",
+      "seoDescription": "Pearla Necklace Set from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-901893-WH",
+          "colour": "White",
+          "price": 2499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "arden-necklace",
+      "productName": "Arden Necklace",
+      "slug": "arden-necklace",
+      "parentCategory": "Necklace",
+      "category": "Kundan",
+      "collections": [],
+      "materials": [
+        "Gold",
+        "Moti"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Arden Necklace",
+      "seoDescription": "Arden Necklace from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-353196-WH",
+          "colour": "White",
+          "price": 2499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "saphira-necklace-set",
+      "productName": "Saphira Necklace Set",
+      "slug": "saphira-necklace-set",
+      "parentCategory": "Necklace",
+      "category": "American Diamond",
+      "collections": [],
+      "materials": [
+        "Silver"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Saphira Necklace Set",
+      "seoDescription": "Saphira Necklace Set from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-443746-WH",
+          "colour": "White",
+          "price": 1499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        },
+        {
+          "sku": "KN-NL-443746-MI",
+          "colour": "Mint",
+          "price": 1499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        },
+        {
+          "sku": "KN-NL-443746-PI",
+          "colour": "Pink",
+          "price": 1499,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    },
+    {
+      "productKey": "evren-necklace-set",
+      "productName": "Evren Necklace Set",
+      "slug": "evren-necklace-set",
+      "parentCategory": "Necklace",
+      "category": "American Diamond",
+      "collections": [],
+      "materials": [
+        "Silver"
+      ],
+      "imageUrls": [],
+      "careInstructions": "A Little Care Goes a Long Way ✨\n\nKeep your jewellery away from water and perfume, and store it in a plastic pouch after use.\n\nWith a little love and care, your jewellery will stay beautiful and can be worn for a long time",
+      "shippingInfo": "Once placed, your order will be delivered within 7-10 days.",
+      "seoTitle": "Evren Necklace Set",
+      "seoDescription": "Evren Necklace Set from Roop Sandook.",
+      "variants": [
+        {
+          "sku": "KN-NL-443939-BL",
+          "colour": "Black",
+          "price": 999,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        },
+        {
+          "sku": "KN-NL-443939-PI",
+          "colour": "Pink",
+          "price": 999,
+          "inventoryCount": 1,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ],
+      "isFeatured": false,
+      "isNewArrival": false
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

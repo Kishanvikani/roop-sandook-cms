@@ -1,0 +1,30 @@
+{
+  "name": "roop-sandook-cms",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "yarn@1.22.22",
+  "scripts": {
+    "dev": "sanity dev",
+    "start": "sanity start",
+    "build": "sanity build",
+    "deploy": "sanity deploy",
+    "sheet:json": "node scripts/sheets-to-json.mjs",
+    "seed:products": "node scripts/seed-products.mjs",
+    "seed:products:dry": "node scripts/seed-products.mjs --dry-run",
+    "clean:catalogue": "node scripts/clean-catalogue.mjs",
+    "clean:catalogue:confirm": "node scripts/clean-catalogue.mjs --confirm",
+    "migrate:public-ids": "node scripts/migrate-public-ids.mjs"
+  },
+  "dependencies": {
+    "@sanity/client": "^7.23.0",
+    "@sanity/icons": "^3.7.4",
+    "@sanity/vision": "^4.0.0",
+    "csv-parse": "^7.0.0",
+    "dotenv": "^17.4.2",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "sanity": "^4.0.0",
+    "styled-components": "^6.1.15"
+  },
+  "devDependencies": {}
+}

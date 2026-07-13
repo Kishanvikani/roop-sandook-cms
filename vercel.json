@@ -1,0 +1,5 @@
+{
+  "buildCommand": "corepack yarn build",
+  "outputDirectory": "dist",
+  "installCommand": "corepack yarn install --frozen-lockfile"
+}

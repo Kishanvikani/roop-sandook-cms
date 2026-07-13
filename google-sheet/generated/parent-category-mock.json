@@ -1,0 +1,331 @@
+{
+  "sourceFile": "parent-category-mock.csv",
+  "generatedAt": "2026-06-28T11:12:12.696Z",
+  "products": [
+    {
+      "productKey": "antique-gold-jhumka-pair",
+      "productName": "Antique Gold Jhumka Pair",
+      "slug": "antique-gold-jhumka-pair",
+      "parentCategory": "Earrings",
+      "category": "Jhumka",
+      "collections": [
+        "Festive Edit",
+        "Wedding Guest"
+      ],
+      "materials": [
+        "Antique Finish",
+        "Gold Plated"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Classic antique gold jhumka pair",
+      "description": "Lightweight festive earrings for sarees and kurtas",
+      "careInstructions": "Keep away from water and perfume",
+      "shippingInfo": "Ships in 2 business days",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "variants": [
+        {
+          "sku": "RS-EAR-JHU-001-GOLD",
+          "colour": "Gold",
+          "price": 899,
+          "compareAtPrice": 1199,
+          "inventoryCount": 8,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "pearl-kundan-stud-earrings",
+      "productName": "Pearl Kundan Stud Earrings",
+      "slug": "pearl-kundan-stud-earrings",
+      "parentCategory": "Earrings",
+      "category": "Stud",
+      "collections": [
+        "Everyday Classics",
+        "Gifting"
+      ],
+      "materials": [
+        "Kundan",
+        "Pearl"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Small kundan studs with pearl detail",
+      "description": "Easy studs for simple festive styling",
+      "careInstructions": "Store in a dry pouch",
+      "shippingInfo": "Ships in 2 business days",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "variants": [
+        {
+          "sku": "RS-EAR-STU-001-PEARL",
+          "colour": "Pearl",
+          "price": 649,
+          "compareAtPrice": 899,
+          "inventoryCount": 12,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "ruby-dangler-earrings",
+      "productName": "Ruby Dangler Earrings",
+      "slug": "ruby-dangler-earrings",
+      "parentCategory": "Earrings",
+      "category": "Danglers",
+      "collections": [
+        "Festive Edit",
+        "Party Edit"
+      ],
+      "materials": [
+        "Gold Plated",
+        "Stone Work"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Ruby tone dangler earrings",
+      "description": "Statement danglers for evening outfits",
+      "careInstructions": "Handle stones gently",
+      "shippingInfo": "Ships in 3 business days",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "variants": [
+        {
+          "sku": "RS-EAR-DAN-001-RUBY",
+          "colour": "Ruby",
+          "price": 1099,
+          "compareAtPrice": 1399,
+          "inventoryCount": 5,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "emerald-chandbali-earrings",
+      "productName": "Emerald Chandbali Earrings",
+      "slug": "emerald-chandbali-earrings",
+      "parentCategory": "Earrings",
+      "category": "Chandbali",
+      "collections": [
+        "Wedding Guest",
+        "Premium Edit"
+      ],
+      "materials": [
+        "Kundan",
+        "Gold Plated"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Emerald tone chandbali earrings",
+      "description": "Traditional chandbali style with kundan accents",
+      "careInstructions": "Keep in separate box",
+      "shippingInfo": "Ships in 3 business days",
+      "isFeatured": false,
+      "isNewArrival": false,
+      "variants": [
+        {
+          "sku": "RS-EAR-CHA-001-GREEN",
+          "colour": "Green",
+          "price": 1299,
+          "compareAtPrice": 1599,
+          "inventoryCount": 4,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "kundan-pearl-choker",
+      "productName": "Kundan Pearl Choker",
+      "slug": "kundan-pearl-choker",
+      "category": "Necklaces",
+      "collections": [
+        "Bridal Edit",
+        "Premium Edit"
+      ],
+      "materials": [
+        "Kundan",
+        "Pearl"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Kundan choker with pearl drops",
+      "description": "Short necklace for lehenga and saree looks",
+      "careInstructions": "Avoid moisture and direct spray",
+      "shippingInfo": "Ships in 3 business days",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "variants": [
+        {
+          "sku": "RS-NEC-CHO-001-PEARL",
+          "colour": "Pearl",
+          "price": 1899,
+          "compareAtPrice": 2299,
+          "inventoryCount": 6,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "temple-haar-necklace",
+      "productName": "Temple Haar Necklace",
+      "slug": "temple-haar-necklace",
+      "category": "Necklaces",
+      "collections": [
+        "Temple Edit",
+        "Bridal Edit"
+      ],
+      "materials": [
+        "Antique Finish",
+        "Gold Plated"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Long temple style haar",
+      "description": "Heritage inspired long necklace for occasion wear",
+      "careInstructions": "Wipe with soft cloth after use",
+      "shippingInfo": "Ships in 4 business days",
+      "isFeatured": false,
+      "isNewArrival": false,
+      "variants": [
+        {
+          "sku": "RS-NEC-HAA-001-GOLD",
+          "colour": "Gold",
+          "price": 2499,
+          "compareAtPrice": 2999,
+          "inventoryCount": 3,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "meenakari-bangle-stack",
+      "productName": "Meenakari Bangle Stack",
+      "slug": "meenakari-bangle-stack",
+      "category": "Bangles",
+      "collections": [
+        "Festive Edit",
+        "Mehendi Edit"
+      ],
+      "materials": [
+        "Meenakari",
+        "Gold Plated"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Stack of meenakari bangles",
+      "description": "Colourful bangles for festive styling",
+      "careInstructions": "Store without pressure on enamel",
+      "shippingInfo": "Ships in 2 business days",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "variants": [
+        {
+          "sku": "RS-BAN-STA-001-MAROON",
+          "colour": "Maroon",
+          "price": 1199,
+          "compareAtPrice": 1499,
+          "inventoryCount": 10,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "antique-kada-bangle",
+      "productName": "Antique Kada Bangle",
+      "slug": "antique-kada-bangle",
+      "category": "Bangles",
+      "collections": [
+        "Everyday Classics",
+        "Temple Edit"
+      ],
+      "materials": [
+        "Antique Finish"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Antique finish kada bangle",
+      "description": "Single kada style bangle for traditional looks",
+      "careInstructions": "Keep clasp dry",
+      "shippingInfo": "Ships in 2 business days",
+      "isFeatured": false,
+      "isNewArrival": false,
+      "variants": [
+        {
+          "sku": "RS-BAN-KAD-001-GOLD",
+          "colour": "Gold",
+          "price": 999,
+          "compareAtPrice": 1299,
+          "inventoryCount": 7,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "maroon-stone-maang-tikka",
+      "productName": "Maroon Stone Maang Tikka",
+      "slug": "maroon-stone-maang-tikka",
+      "category": "Maang Tikka",
+      "collections": [
+        "Bridal Edit",
+        "Mehendi Edit"
+      ],
+      "materials": [
+        "Kundan",
+        "Stone Work"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Maroon stone maang tikka",
+      "description": "Traditional forehead jewellery for complete styling",
+      "careInstructions": "Store flat in pouch",
+      "shippingInfo": "Ships in 2 business days",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "variants": [
+        {
+          "sku": "RS-MTK-001-MAROON",
+          "colour": "Maroon",
+          "price": 749,
+          "compareAtPrice": 999,
+          "inventoryCount": 9,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    },
+    {
+      "productKey": "pearl-passaa",
+      "productName": "Side Pearl Passaa",
+      "slug": "pearl-passaa",
+      "category": "Passa",
+      "collections": [
+        "Bridal Edit",
+        "Premium Edit"
+      ],
+      "materials": [
+        "Pearl",
+        "Gold Plated"
+      ],
+      "imageUrls": [],
+      "shortDescription": "Side pearl passaa",
+      "description": "Occasion hair accessory with pearl strands",
+      "careInstructions": "Keep chains untangled",
+      "shippingInfo": "Ships in 3 business days",
+      "isFeatured": false,
+      "isNewArrival": false,
+      "variants": [
+        {
+          "sku": "RS-PAS-001-PEARL",
+          "colour": "Pearl",
+          "price": 849,
+          "compareAtPrice": 1099,
+          "inventoryCount": 4,
+          "inStock": true,
+          "imageUrls": []
+        }
+      ]
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}
